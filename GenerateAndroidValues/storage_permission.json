@@ -1,0 +1,462 @@
+[
+   {
+      "locale":"af",
+      "country":"Afrikaans",
+      "string":"Laat asseblief toegang tot Lees Eksterne berging as hierdie aansoek wil al jou musiek te speel"
+   },
+   {
+      "locale":"ar",
+      "country":"Arabic",
+      "string":"اسمحوا الوصول إلى القراءة وحدة تخزين خارجية مثل هذا التطبيق يريد أن يلعب كل ما تبذلونه من الموسيقى"
+   },
+   {
+      "locale":"az",
+      "country":"Azerbaijani",
+      "string":"Bu proqram bütün musiqi oynamaq istəyir Reading Xarici Saxlama imkan edin"
+   },
+   {
+      "locale":"be",
+      "country":"Belarusian",
+      "string":"Калі ласка, дазволіць доступ да Reading Знешнія назапашвальнікі, як гэта дадатак хоча гуляць ўсю сваю музыку"
+   },
+   {
+      "locale":"bg",
+      "country":"Bulgarian",
+      "string":"Моля позволи достъп до четене Външна памет като това приложение иска да играе музиката си"
+   },
+   {
+      "locale":"bn",
+      "country":"Bengali",
+      "string":"যেমন এই অ্যাপ্লিকেশনের দ্বারা আপনাকে আপনার সব গান প্লে করতে চায় দয়া করে পড়া বাহ্যিক সংগ্রহস্থল অ্যাক্সেস মঞ্জুর"
+   },
+   {
+      "locale":"bs",
+      "country":"Bosnian",
+      "string":"Molim vas, dozvolite pristup Reading External Storage kao ovu aplikaciju želi igrati sve svoje Muzičke"
+   },
+   {
+      "locale":"ca",
+      "country":"Catalan",
+      "string":"Permet l&#39;accés a la lectura d&#39;emmagatzematge extern que aquesta sol·licitud vol reproduir tota la seva música"
+   },
+   {
+      "locale":"ceb",
+      "country":"Cebuano",
+      "string":"Palihug motugot access sa Pagbasa External Pagtipig ingon nga gusto niini nga aplikasyon sa pagdula sa tanan sa imong Music"
+   },
+   {
+      "locale":"cs",
+      "country":"Czech",
+      "string":"Prosím, umožnit přístup k Reading externí úložiště, jako je tato aplikace chce hrát všechnu svou hudbu"
+   },
+   {
+      "locale":"cy",
+      "country":"Welsh",
+      "string":"Os gwelwch yn dda yn caniatáu mynediad i Ddarllen Storio Allanol fel y cais hwn am chwarae eich holl cerddoriaeth"
+   },
+   {
+      "locale":"da",
+      "country":"Danish",
+      "string":"tillade venligst adgang til Reading Ekstern lagring, da dette program ønsker at spille al din musik"
+   },
+   {
+      "locale":"de",
+      "country":"German",
+      "string":"Bitte erlauben den Zugriff auf Lese External Storage, da diese Anwendung nutzen will, alle Ihre Musik zu spielen"
+   },
+   {
+      "locale":"el",
+      "country":"Greek",
+      "string":"Παρακαλείστε να επιτρέπουν την πρόσβαση σε Ρέντινγκ Εξωτερικά μέσα αποθήκευσης, όπως η εφαρμογή αυτή θέλει να παίξει τη μουσική σας"
+   },
+   {
+      "locale":"en",
+      "country":"English",
+      "string":"Please allow access to Reading External Storage as this application wants to play all your Music"
+   },
+   {
+      "locale":"eo",
+      "country":"Esperanto",
+      "string":"Please allow access to Reading External Storage as this application wants to play all your Music"
+   },
+   {
+      "locale":"es",
+      "country":"Spanish",
+      "string":"Permite el acceso a la lectura de almacenamiento externo que esta solicitud quiere reproducir toda su música"
+   },
+   {
+      "locale":"et",
+      "country":"Estonian",
+      "string":"Palun võimalda Reading External Storage kuna see rakendus tahab mängida kõik oma muusika"
+   },
+   {
+      "locale":"eu",
+      "country":"Basque",
+      "string":"Mesedez, baimendu sarbidea Reading Kanpo Biltegiratzea aplikazio honetan zure Music guztiak jokatu nahi bezala"
+   },
+   {
+      "locale":"fa",
+      "country":"Persian",
+      "string":"لطفا دسترسی به خواندن ذخیره سازی خارجی اجازه می دهد این نرم افزار می خواهد به بازی تمام موسیقی خود را"
+   },
+   {
+      "locale":"fi",
+      "country":"Finnish",
+      "string":"Sallikaa pääsyn Reading External Storage koska tämä sovellus haluaa toistaa kaikki musiikki"
+   },
+   {
+      "locale":"fr",
+      "country":"French",
+      "string":"S&#39;il vous plaît permettre l&#39;accès à la lecture de stockage externe comme cette application veut jouer toute votre musique"
+   },
+   {
+      "locale":"ga",
+      "country":"Irish",
+      "string":"Tabhair rochtain a cheadú chun Léitheoireacht Stóráil Seachtracha mar ba mhaith leis an iarratas seo a imirt ar fad do Ceol"
+   },
+   {
+      "locale":"gl",
+      "country":"Galician",
+      "string":"Por favor, permita o acceso á lectura de almacenamento externo, como este programa quere xogar todas as súas cancións"
+   },
+   {
+      "locale":"gu",
+      "country":"Gujarati",
+      "string":"કારણ કે આ એપ્લિકેશન તમારા બધા સંગીત રમવા માંગે છે કૃપા કરીને વાંચન બાહ્ય સ્ટોરેજ માટે પ્રવેશને પરવાનગી આપવા"
+   },
+   {
+      "locale":"ha",
+      "country":"Hausa",
+      "string":"Don Allah ba da damar samun Karatun External Storage kamar yadda wannan aikace-aikace na son a yi wasa dukan Music"
+   },
+   {
+      "locale":"hi",
+      "country":"Hindi",
+      "string":"के रूप में इस आवेदन अपने सभी संगीत खेलना चाहता है कृपया पढ़ना बाह्य भंडारण के लिए उपयोग की अनुमति"
+   },
+   {
+      "locale":"hmn",
+      "country":"Hmong",
+      "string":"Please allow access to Reading External Storage as this application wants to play all your Music"
+   },
+   {
+      "locale":"hr",
+      "country":"Croatian",
+      "string":"Molimo dopustite pristup za čitanje vanjsku pohranu kao što je ovaj program želi igrati sve svoje glazbe"
+   },
+   {
+      "locale":"ht",
+      "country":"Haitian Creole",
+      "string":"Tanpri pèmèt aksè nan Lekti Depo Eksteryè kòm aplikasyon sa a vle jwe tout Klas Mizik ou"
+   },
+   {
+      "locale":"hu",
+      "country":"Hungarian",
+      "string":"Kérjük, engedélyezze a hozzáférést a Reading Külső tároló mivel ez a kérelem akar játszani az összes zene"
+   },
+   {
+      "locale":"hy",
+      "country":"Armenian",
+      "string":"Խնդրում ենք թույլատրել մուտք գործել Կարդալու արտաքին Storage, քանի որ այս դիմումը, ցանկանում է խաղալ բոլոր ձեր Երաժշտություն"
+   },
+   {
+      "locale":"id",
+      "country":"Indonesian",
+      "string":"Izinkan akses ke Reading External Storage sebagai aplikasi ini ingin bermain sepanjang Musik Anda"
+   },
+   {
+      "locale":"ig",
+      "country":"Igbo",
+      "string":"Biko ekwe ka ohere ka Reading Mpụga Nchekwa dị ka a ngwa chọrọ igwu egwu gị niile Music"
+   },
+   {
+      "locale":"is",
+      "country":"Icelandic",
+      "string":"Vinsamlegast leyfa aðgang að Reading Ytri Bílskúr þar sem þetta forrit vill spila alla tónlist"
+   },
+   {
+      "locale":"it",
+      "country":"Italian",
+      "string":"Si prega di consentire l&#39;accesso alla lettura di archiviazione esterno come questa applicazione vuole giocare tutta la tua musica"
+   },
+   {
+      "locale":"iw",
+      "country":"Hebrew",
+      "string":"בבקשה לאפשר גישה קריאה אחסון חיצוני כמו יישום זה רוצה לשחק כל המוסיקה שלך"
+   },
+   {
+      "locale":"ja",
+      "country":"Japanese",
+      "string":"このアプリケーションは、すべてのあなたの音楽を再生したいようレディング外部ストレージへのアクセスを許可してください"
+   },
+   {
+      "locale":"jw",
+      "country":"Javanese",
+      "string":"Mangga ngidini akses kanggo Reading Storage njaba minangka aplikasi iki kepengin kanggo muter kabeh Musik"
+   },
+   {
+      "locale":"ka",
+      "country":"Georgian",
+      "string":"გთხოვთ დაუშვას Reading გარე შენახვის როგორც ეს პროგრამა სურს ითამაშოს თქვენი ყველა მუსიკა"
+   },
+   {
+      "locale":"kk",
+      "country":"Kazakh",
+      "string":"Бұл бағдарлама сіздің барлық музыканы ойнату үшін қалайды-ақ оқу Сыртқы сақтау кіруге рұқсат сұраймыз"
+   },
+   {
+      "locale":"km",
+      "country":"Khmer",
+      "string":"សូមអនុញ្ញាតឱ្យចូលដំណើរការអានជាកម្មវិធីខាងក្រៅផ្ទុកនេះចង់លេងតន្ត្រីរបស់អ្នក"
+   },
+   {
+      "locale":"kn",
+      "country":"Kannada",
+      "string":"ಈ ಅಪ್ಲಿಕೇಶನ್ ಎಲ್ಲಾ ನಿಮ್ಮ ಸಂಗೀತ ಆಡಲು ಬಯಸುತ್ತಾನೆ ದಯವಿಟ್ಟು ಓದುವಿಕೆ ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆ ಅನುಮತಿಸಬಹುದು"
+   },
+   {
+      "locale":"ko",
+      "country":"Korean",
+      "string":"이 응용 프로그램은 모든 음악을 재생하고 싶은대로 읽기 외부 저장 장치에 액세스 할 수 있도록하십시오"
+   },
+   {
+      "locale":"la",
+      "country":"Latin",
+      "string":"Please allow access to Reading External Storage as this application wants to play all your Music"
+   },
+   {
+      "locale":"lo",
+      "country":"Lao",
+      "string":"ກະລຸນາອະນຸຍາດໃຫ້ເຂົ້າເຖິງການອ່ານການເກັບຮັກສາພາຍນອກເປັນຄໍາຮ້ອງສະຫມັກນີ້ຕ້ອງການທີ່ຈະຫຼິ້ນທັງຫມົດດົນຕີຂອງທ່ານ"
+   },
+   {
+      "locale":"lt",
+      "country":"Lithuanian",
+      "string":"Prašau leisti prieigą prie skaityklos išorine atmintine kaip ši paraiška nori žaisti visą savo muziką"
+   },
+   {
+      "locale":"lv",
+      "country":"Latvian",
+      "string":"Lūdzu, ļaujiet piekļuvi Reading ārējās glabāšanas, jo šis pieteikums vēlas spēlēt visu savu mūziku"
+   },
+   {
+      "locale":"mg",
+      "country":"Malagasy",
+      "string":"Masìna ianao, mamela ny fidirana amin&#39;ny Reading ivelany Storage ho fampiharana ity te-hilalao rehetra Music"
+   },
+   {
+      "locale":"mi",
+      "country":"Maori",
+      "string":"Koa tukua te uru ki Reading waho Storage rite tenei tono e hiahia ana ki te tākaro koutou Music katoa"
+   },
+   {
+      "locale":"mk",
+      "country":"Macedonian",
+      "string":"Ве молиме овозможи пристап до читањето Вон чување како оваа апликација сака да се играат сите вашата музика"
+   },
+   {
+      "locale":"ml",
+      "country":"Malayalam",
+      "string":"ഈ അപ്ലിക്കേഷൻ നിങ്ങളുടെ എല്ലാ സംഗീതം പ്ലേ ആഗ്രഹിയ്ക്കുന്ന വായന ബാഹ്യ സംഭരണം ആക്സസ്സ് അനുവദിക്കുക"
+   },
+   {
+      "locale":"mn",
+      "country":"Mongolian",
+      "string":"Энэ програм таны бүх хөгжим тоглохыг хүсдэг гэж унших гадаад хадгалалтын хандах боломж олгодог уу"
+   },
+   {
+      "locale":"mr",
+      "country":"Marathi",
+      "string":"या अनुप्रयोग आपल्या सर्व संगीत खेळायचे आहे म्हणून वाचन बाह्य संचय प्रवेशास अनुमती द्या"
+   },
+   {
+      "locale":"ms",
+      "country":"Malay",
+      "string":"Sila membenarkan akses kepada Reading Storan Luaran sebagai permohonan ini mahu bermain semua Muzik anda"
+   },
+   {
+      "locale":"mt",
+      "country":"Maltese",
+      "string":"Jekk jogħġbok jippermettu aċċess għal Qari Esterni Ħażna bħala din l-applikazzjoni trid tilgħab l-mużika tiegħek"
+   },
+   {
+      "locale":"my",
+      "country":"Myanmar (Burmese)",
+      "string":"ဤလျှောက်လွှာကိုအားလုံးသင်၏တေးဂီတကစားရန်လိုလားအဖြစ်စာဖတ်ခြင်းပြင်ပသိုလှောင်ဖို့ခွင့်ပြုရန် ကျေးဇူးပြု."
+   },
+   {
+      "locale":"ne",
+      "country":"Nepali",
+      "string":"यो अनुप्रयोग आफ्नो सबै संगीत खेल्न चाहन्छ रूपमा पढाइ बाह्य भण्डारण पहुँच अनुमति कृपया"
+   },
+   {
+      "locale":"nl",
+      "country":"Dutch",
+      "string":"Houd rekening met de toegang tot Reading External Storage als deze applicatie wil al uw muziek af te spelen"
+   },
+   {
+      "locale":"no",
+      "country":"Norwegian",
+      "string":"Vennligst gi tilgang til Reading Ekstern lagring som dette programmet ønsker å spille all din musikk"
+   },
+   {
+      "locale":"ny",
+      "country":"Chichewa",
+      "string":"Ndiloleni kupeza Kuwerenga yosungirako zotele ntchito uyu akufuna kusewera Music anu onse"
+   },
+   {
+      "locale":"pa",
+      "country":"Punjabi",
+      "string":"ਦੇ ਤੌਰ ਤੇ ਇਸ ਕਾਰਜ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਸੰਗੀਤ ਖੇਡਣ ਲਈ ਚਾਹੁੰਦਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਰੀਡਿੰਗ ਵਿਦੇਸ਼ ਸਟੋਰੇਜ਼ ਲਈ ਪਹੁੰਚ ਦੀ ਇਜ਼ਾਜਤ"
+   },
+   {
+      "locale":"pl",
+      "country":"Polish",
+      "string":"Należy umożliwić dostęp do Reading External Storage, jak ta aplikacja chce grać całą swoją muzykę"
+   },
+   {
+      "locale":"pt",
+      "country":"Portuguese",
+      "string":"Por favor, permita o acesso à leitura de armazenamento externo, como esta aplicação quer jogar todas as suas músicas"
+   },
+   {
+      "locale":"ro",
+      "country":"Romanian",
+      "string":"Vă rugăm să permiteți accesul la Reading Stocare externă ca această aplicație vrea să se joace toate muzica ta"
+   },
+   {
+      "locale":"ru",
+      "country":"Russian",
+      "string":"Пожалуйста, разрешить доступ к Reading Внешние накопители, как это приложение хочет играть всю свою музыку"
+   },
+   {
+      "locale":"si",
+      "country":"Sinhala",
+      "string":"මෙම යෙදුම ඔබගේ සියලු සංගීත කැමති සෙල්ලම් කරන්න ලෙස වර කියවීම විදේශ ගබඞා ප්රවේශ අවසර දෙන්න"
+   },
+   {
+      "locale":"sk",
+      "country":"Slovak",
+      "string":"Prosím, umožniť prístup k Reading externé úložisko, ako je táto aplikácia chce hrať všetku svoju hudbu"
+   },
+   {
+      "locale":"sl",
+      "country":"Slovenian",
+      "string":"Prosimo, da se omogoči dostop do branja zunanje skladišče, kot želi to vlogo igrati vso svojo glasbo"
+   },
+   {
+      "locale":"so",
+      "country":"Somali",
+      "string":"Fadlan oggolaadaan in Reading Dibadda Kaydinta sida codsigan doonayo inuu ciyaaro aad Music dhan"
+   },
+   {
+      "locale":"sq",
+      "country":"Albanian",
+      "string":"Ju lutemi të lejojë qasje të leximit ruajtje të jashtëm si kjo kërkesë do të luajë të gjithë muzikën tuaj"
+   },
+   {
+      "locale":"sr",
+      "country":"Serbian",
+      "string":"Дозволите приступ Реадинг екстерне уређаје као ова апликација жели да игра сву своју музику"
+   },
+   {
+      "locale":"st",
+      "country":"Sesotho",
+      "string":"Ka kōpo lumella hore phihlello ho Bala Storage External joalokaha kopo ena a batla ho bapala Music tsohle tsa hao"
+   },
+   {
+      "locale":"su",
+      "country":"Sundanese",
+      "string":"Mangga ngidinan aksés ka Reading Storage kaluar salaku aplikasi ieu hayang ulin sadaya Music Anjeun"
+   },
+   {
+      "locale":"sv",
+      "country":"Swedish",
+      "string":"Vänligen ge tillgång till läsning Extern lagring som denna ansökan vill spela all din musik"
+   },
+   {
+      "locale":"sw",
+      "country":"Swahili",
+      "string":"Tafadhali kuruhusu upatikanaji wa Reading Uhifadhi External kama maombi hii anataka kucheza Music yako yote"
+   },
+   {
+      "locale":"ta",
+      "country":"Tamil",
+      "string":"இந்த விண்ணப்பத்தை உங்கள் இசை விளையாட வேண்டும் என படித்தல் வெளி சேமிப்பு அணுக அனுமதிக்கவும்"
+   },
+   {
+      "locale":"te",
+      "country":"Telugu",
+      "string":"ఈ అప్లికేషన్ మీ సంగీతం ప్లే చేయాలనుకుంటున్నారు దయచేసి పఠనం బాహ్య నిల్వ యాక్సెస్ అనుమతించేందుకు"
+   },
+   {
+      "locale":"tg",
+      "country":"Tajik",
+      "string":"Лутфан, дастрасӣ ба Reading берунии гардероб имкон чун ин барнома мехоҳад, ки ба бозӣ тамоми Мусиқӣ кунед"
+   },
+   {
+      "locale":"th",
+      "country":"Thai",
+      "string":"กรุณาอนุญาตให้เข้าถึงการอ่านจัดเก็บข้อมูลภายนอกเป็นโปรแกรมนี้ต้องการที่จะเล่นทุกเพลงของคุณ"
+   },
+   {
+      "locale":"tl",
+      "country":"Filipino",
+      "string":"Mangyaring payagan ang access sa Reading Panlabas na Storage sa paraang nais ng application na ito upang i-play ang lahat ng iyong Music"
+   },
+   {
+      "locale":"tr",
+      "country":"Turkish",
+      "string":"Bu uygulama tüm Müzik çalmak istediği gibi okuma Harici Depolama erişime izin verin"
+   },
+   {
+      "locale":"uk",
+      "country":"Ukrainian",
+      "string":"Будь ласка, дозволити доступ до Reading Зовнішні накопичувачі, як це додаток хоче грати всю свою музику"
+   },
+   {
+      "locale":"ur",
+      "country":"Urdu",
+      "string":"اس درخواست آپ کے تمام موسیقی کو کھیلنے کے لئے چاہتا ہے کے طور پڑھنا بیرونی سٹوریج تک رسائی کی اجازت کریں"
+   },
+   {
+      "locale":"uz",
+      "country":"Uzbek",
+      "string":"Ushbu dastur barcha Musiqa tinglashni istaydi sifatida Reading Tashqi saqlash foydalanishga ruxsat bering"
+   },
+   {
+      "locale":"vi",
+      "country":"Vietnamese",
+      "string":"Xin cho phép truy cập đến Reading lưu trữ bên ngoài như là ứng dụng này muốn chơi tất cả các âm nhạc của bạn"
+   },
+   {
+      "locale":"yi",
+      "country":"Yiddish",
+      "string":"ביטע לאָזן צוטריט צו לייענען עקסטערנאַל סטאָרידזש ווי דעם אַפּלאַקיישאַן וויל צו שפּילן אַלע אייער מוזיק"
+   },
+   {
+      "locale":"yo",
+      "country":"Yoruba",
+      "string":"Jọwọ gba wiwọle si Reading Ita Ibi bi yi ohun elo fe lati mu gbogbo rẹ Music"
+   },
+   {
+      "locale":"zh",
+      "country":"Chinese",
+      "string":"请允许读取外部存储访问，因为这应用程序要发挥你所有的音乐"
+   },
+   {
+      "locale":"zh-CN",
+      "country":"Chinese (Simplified)",
+      "string":"请允许读取外部存储访问，因为这应用程序要发挥你所有的音乐"
+   },
+   {
+      "locale":"zh-TW",
+      "country":"Chinese (Traditional)",
+      "string":"請允許讀取外部存儲訪問，因為這應用程序要發揮你所有的音樂"
+   },
+   {
+      "locale":"zu",
+      "country":"Zulu",
+      "string":"Sicela uvumele ukufinyelela lokufunda Isitoreji sangaphandle njengoba lolu hlelo ufuna ukudlala zonke Umculo wakho"
+   }
+]

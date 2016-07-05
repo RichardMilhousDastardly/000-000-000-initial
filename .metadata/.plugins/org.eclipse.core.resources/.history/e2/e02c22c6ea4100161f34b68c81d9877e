@@ -1,0 +1,1 @@
+<resources><string name="app_name">Tooonage</string><string name="permission_explanation_record_audio">{{audio}}</string><string name="permission_explanation_read_external_storage">{{storage}}</string><string name="click_on_one">1). {{clickOn}}</string><string name="click_on_two">2). {{clickOn}}</string><string name="say_play">3). {{sayPlay}}</string></resources>

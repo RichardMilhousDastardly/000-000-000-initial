@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectReader"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.github.mustachejava.MustacheFactory"/>
+<fullyQualifiedTypeName name="com.github.mustachejava.DefaultMustacheFactory"/>
+<fullyQualifiedTypeName name="com.github.mustachejava.Mustache"/>
+<fullyQualifiedTypeName name="com.samskivert.mustache.Mustache"/>
+<fullyQualifiedTypeName name="java.nio.file.Paths"/>
+<fullyQualifiedTypeName name="java.nio.file.Files"/>
+<fullyQualifiedTypeName name="java.nio.charset.StandardCharsets"/>
+<fullyQualifiedTypeName name="java.nio.file.StandardOpenOption"/>
+</qualifiedTypeNameHistroy>

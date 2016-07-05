@@ -1,0 +1,9 @@
+package com.crucifix.software.generate;
+
+public class GenerateManager {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

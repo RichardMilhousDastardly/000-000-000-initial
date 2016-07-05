@@ -1,0 +1,18 @@
+package com.crucifix.software.generate;
+
+import java.io.IOException;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+
+public class GenerateManager {
+
+	public static void main(final String[] args) throws JsonProcessingException, IOException {
+		
+		final Generator generator = new Generator();
+		generator.init();
+		
+		
+		
+	}
+
+}

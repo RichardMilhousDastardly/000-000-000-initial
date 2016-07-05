@@ -1,0 +1,32 @@
+package com.crucifix.software.generate;
+
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class TranslationJson {
+
+	private final String locale;
+	private final String country;
+	private final String string;
+
+	@JsonCreator
+	public TranslationJson(@JsonProperty("name") final String locale, @JsonProperty("name") final String country, @JsonProperty("name") final String string) {
+		super();
+		this.locale = locale;
+		this.country = country;
+		this.string = string;
+	}
+
+	public String getLocale() {
+		return locale;
+	}
+
+	public String getCountry() {
+		return country;
+	}
+
+	public String getString() {
+		return string;
+	}
+
+}

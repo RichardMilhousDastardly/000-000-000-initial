@@ -1,0 +1,462 @@
+[
+   {
+      "locale":"af",
+      "country":"Afrikaans",
+      "string":"Klik op"
+   },
+   {
+      "locale":"ar",
+      "country":"Arabic",
+      "string":"انقر فوق تشغيل"
+   },
+   {
+      "locale":"az",
+      "country":"Azerbaijani",
+      "string":"Basın"
+   },
+   {
+      "locale":"be",
+      "country":"Belarusian",
+      "string":"націсніце на"
+   },
+   {
+      "locale":"bg",
+      "country":"Bulgarian",
+      "string":"Кликнете върху"
+   },
+   {
+      "locale":"bn",
+      "country":"Bengali",
+      "string":"ক্লিক করুন"
+   },
+   {
+      "locale":"bs",
+      "country":"Bosnian",
+      "string":"Kliknite na"
+   },
+   {
+      "locale":"ca",
+      "country":"Catalan",
+      "string":"Fer clic a"
+   },
+   {
+      "locale":"ceb",
+      "country":"Cebuano",
+      "string":"I-klik sa"
+   },
+   {
+      "locale":"cs",
+      "country":"Czech",
+      "string":"Klikněte na"
+   },
+   {
+      "locale":"cy",
+      "country":"Welsh",
+      "string":"Cliciwch On"
+   },
+   {
+      "locale":"da",
+      "country":"Danish",
+      "string":"Klik på"
+   },
+   {
+      "locale":"de",
+      "country":"German",
+      "string":"Klicke auf"
+   },
+   {
+      "locale":"el",
+      "country":"Greek",
+      "string":"Κάντε κλικ στο"
+   },
+   {
+      "locale":"en",
+      "country":"English",
+      "string":"Click On"
+   },
+   {
+      "locale":"eo",
+      "country":"Esperanto",
+      "string":"Click On"
+   },
+   {
+      "locale":"es",
+      "country":"Spanish",
+      "string":"Haga clic en"
+   },
+   {
+      "locale":"et",
+      "country":"Estonian",
+      "string":"Kliki"
+   },
+   {
+      "locale":"eu",
+      "country":"Basque",
+      "string":"klik On"
+   },
+   {
+      "locale":"fa",
+      "country":"Persian",
+      "string":"با کلیک بر روی"
+   },
+   {
+      "locale":"fi",
+      "country":"Finnish",
+      "string":"Klikkaa"
+   },
+   {
+      "locale":"fr",
+      "country":"French",
+      "string":"Cliquer sur"
+   },
+   {
+      "locale":"ga",
+      "country":"Irish",
+      "string":"Cliceáil ar"
+   },
+   {
+      "locale":"gl",
+      "country":"Galician",
+      "string":"Prema en"
+   },
+   {
+      "locale":"gu",
+      "country":"Gujarati",
+      "string":"ઉપર ક્લિક કરો"
+   },
+   {
+      "locale":"ha",
+      "country":"Hausa",
+      "string":"Click On"
+   },
+   {
+      "locale":"hi",
+      "country":"Hindi",
+      "string":"पर क्लिक करें"
+   },
+   {
+      "locale":"hmn",
+      "country":"Hmong",
+      "string":"Click On"
+   },
+   {
+      "locale":"hr",
+      "country":"Croatian",
+      "string":"Kliknite na"
+   },
+   {
+      "locale":"ht",
+      "country":"Haitian Creole",
+      "string":"Klike sou Sou"
+   },
+   {
+      "locale":"hu",
+      "country":"Hungarian",
+      "string":"Kattintson"
+   },
+   {
+      "locale":"hy",
+      "country":"Armenian",
+      "string":"Սեղմիր"
+   },
+   {
+      "locale":"id",
+      "country":"Indonesian",
+      "string":"Klik"
+   },
+   {
+      "locale":"ig",
+      "country":"Igbo",
+      "string":"Pịa On"
+   },
+   {
+      "locale":"is",
+      "country":"Icelandic",
+      "string":"Smelltu á"
+   },
+   {
+      "locale":"it",
+      "country":"Italian",
+      "string":"Clicca su"
+   },
+   {
+      "locale":"iw",
+      "country":"Hebrew",
+      "string":"לחץ על"
+   },
+   {
+      "locale":"ja",
+      "country":"Japanese",
+      "string":"クリック"
+   },
+   {
+      "locale":"jw",
+      "country":"Javanese",
+      "string":"Klik On"
+   },
+   {
+      "locale":"ka",
+      "country":"Georgian",
+      "string":"დააკლიკეთ"
+   },
+   {
+      "locale":"kk",
+      "country":"Kazakh",
+      "string":"Басыңыз"
+   },
+   {
+      "locale":"km",
+      "country":"Khmer",
+      "string":"សូមចុចនៅលើ"
+   },
+   {
+      "locale":"kn",
+      "country":"Kannada",
+      "string":"ಕ್ಲಿಕ್"
+   },
+   {
+      "locale":"ko",
+      "country":"Korean",
+      "string":"클릭"
+   },
+   {
+      "locale":"la",
+      "country":"Latin",
+      "string":"Click On"
+   },
+   {
+      "locale":"lo",
+      "country":"Lao",
+      "string":"ກົດກ່ຽວກັບ"
+   },
+   {
+      "locale":"lt",
+      "country":"Lithuanian",
+      "string":"Spustelėkite"
+   },
+   {
+      "locale":"lv",
+      "country":"Latvian",
+      "string":"Klikšķiniet uz"
+   },
+   {
+      "locale":"mg",
+      "country":"Malagasy",
+      "string":"tsindrio eo amin&#39;ny"
+   },
+   {
+      "locale":"mi",
+      "country":"Maori",
+      "string":"Pāwhiritia i te"
+   },
+   {
+      "locale":"mk",
+      "country":"Macedonian",
+      "string":"Кликнете на"
+   },
+   {
+      "locale":"ml",
+      "country":"Malayalam",
+      "string":"ക്ലിക്ക് ചെയ്യുക"
+   },
+   {
+      "locale":"mn",
+      "country":"Mongolian",
+      "string":"Дээр товшино уу"
+   },
+   {
+      "locale":"mr",
+      "country":"Marathi",
+      "string":"वर क्लिक करा"
+   },
+   {
+      "locale":"ms",
+      "country":"Malay",
+      "string":"Klik pada"
+   },
+   {
+      "locale":"mt",
+      "country":"Maltese",
+      "string":"ikklikkja Fuq"
+   },
+   {
+      "locale":"my",
+      "country":"Myanmar (Burmese)",
+      "string":"တွင်ကလစ်နှိပ်ပါ"
+   },
+   {
+      "locale":"ne",
+      "country":"Nepali",
+      "string":"मा क्लिक गर्नुहोस्"
+   },
+   {
+      "locale":"nl",
+      "country":"Dutch",
+      "string":"Klik op"
+   },
+   {
+      "locale":"no",
+      "country":"Norwegian",
+      "string":"Klikk På"
+   },
+   {
+      "locale":"ny",
+      "country":"Chichewa",
+      "string":"Dinani"
+   },
+   {
+      "locale":"pa",
+      "country":"Punjabi",
+      "string":"&#39;ਤੇ ਕਲਿੱਕ ਕਰੋ"
+   },
+   {
+      "locale":"pl",
+      "country":"Polish",
+      "string":"Kliknij"
+   },
+   {
+      "locale":"pt",
+      "country":"Portuguese",
+      "string":"Clique em"
+   },
+   {
+      "locale":"ro",
+      "country":"Romanian",
+      "string":"Click pe"
+   },
+   {
+      "locale":"ru",
+      "country":"Russian",
+      "string":"Нажмите на"
+   },
+   {
+      "locale":"si",
+      "country":"Sinhala",
+      "string":"මත ක්ලික් කරන්න"
+   },
+   {
+      "locale":"sk",
+      "country":"Slovak",
+      "string":"Kliknite na"
+   },
+   {
+      "locale":"sl",
+      "country":"Slovenian",
+      "string":"Kliknite na"
+   },
+   {
+      "locale":"so",
+      "country":"Somali",
+      "string":"guji On"
+   },
+   {
+      "locale":"sq",
+      "country":"Albanian",
+      "string":"Klikoni mbi"
+   },
+   {
+      "locale":"sr",
+      "country":"Serbian",
+      "string":"Кликните на"
+   },
+   {
+      "locale":"st",
+      "country":"Sesotho",
+      "string":"Click On"
+   },
+   {
+      "locale":"su",
+      "country":"Sundanese",
+      "string":"Klik On"
+   },
+   {
+      "locale":"sv",
+      "country":"Swedish",
+      "string":"Klicka på"
+   },
+   {
+      "locale":"sw",
+      "country":"Swahili",
+      "string":"Bofya On"
+   },
+   {
+      "locale":"ta",
+      "country":"Tamil",
+      "string":"கிளிக் செய்யவும்"
+   },
+   {
+      "locale":"te",
+      "country":"Telugu",
+      "string":"నొక్కండి"
+   },
+   {
+      "locale":"tg",
+      "country":"Tajik",
+      "string":"Дар бораи ангушт занед"
+   },
+   {
+      "locale":"th",
+      "country":"Thai",
+      "string":"คลิกที่"
+   },
+   {
+      "locale":"tl",
+      "country":"Filipino",
+      "string":"Mag-click sa"
+   },
+   {
+      "locale":"tr",
+      "country":"Turkish",
+      "string":"Tıklamak"
+   },
+   {
+      "locale":"uk",
+      "country":"Ukrainian",
+      "string":"Натисніть на"
+   },
+   {
+      "locale":"ur",
+      "country":"Urdu",
+      "string":"پر کلک کریں"
+   },
+   {
+      "locale":"uz",
+      "country":"Uzbek",
+      "string":"bosing"
+   },
+   {
+      "locale":"vi",
+      "country":"Vietnamese",
+      "string":"Bấm vào"
+   },
+   {
+      "locale":"yi",
+      "country":"Yiddish",
+      "string":"דריקט אויף"
+   },
+   {
+      "locale":"yo",
+      "country":"Yoruba",
+      "string":"Tẹ On"
+   },
+   {
+      "locale":"zh",
+      "country":"Chinese",
+      "string":"点击"
+   },
+   {
+      "locale":"zh-CN",
+      "country":"Chinese (Simplified)",
+      "string":"点击"
+   },
+   {
+      "locale":"zh-TW",
+      "country":"Chinese (Traditional)",
+      "string":"點擊"
+   },
+   {
+      "locale":"zu",
+      "country":"Zulu",
+      "string":"Chofoza On"
+   }
+]

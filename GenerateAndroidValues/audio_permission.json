@@ -1,0 +1,462 @@
+[
+   {
+      "locale":"af",
+      "country":"Afrikaans",
+      "string":"Laat asseblief van klank as hierdie aansoek werk spraak"
+   },
+   {
+      "locale":"ar",
+      "country":"Arabic",
+      "string":"اسمحوا تسجيل الصوت حيث أن هذا التطبيق يعمل التعرف على الكلام"
+   },
+   {
+      "locale":"az",
+      "country":"Azerbaijani",
+      "string":"Bu proqram nitqi tanınması çalışır kimi Recording Audio imkan edin"
+   },
+   {
+      "locale":"be",
+      "country":"Belarusian",
+      "string":"Калі ласка, дазвольце запісу аўдыё, як гэта дадатак выкарыстоўвае распазнаванне прамовы"
+   },
+   {
+      "locale":"bg",
+      "country":"Bulgarian",
+      "string":"Моля, позволете Recording Audio като това приложение използва за разпознаване на реч"
+   },
+   {
+      "locale":"bn",
+      "country":"Bengali",
+      "string":"রেকর্ডিং অডিও অনুমতি দয়া করে এই আবেদন স্পিচ রিকগনিশন নিয়োগ"
+   },
+   {
+      "locale":"bs",
+      "country":"Bosnian",
+      "string":"Dozvolite Snimanje zvuka kao ovu aplikaciju koristi za prepoznavanje govora"
+   },
+   {
+      "locale":"ca",
+      "country":"Catalan",
+      "string":"Si us plau permeti l&#39;enregistrament d&#39;àudio com aquesta aplicació empra el reconeixement de veu"
+   },
+   {
+      "locale":"ceb",
+      "country":"Cebuano",
+      "string":"Palihug motugot Pagrekord Audio sama niini nga aplikasyon migamit sa Sinultihan Recognition"
+   },
+   {
+      "locale":"cs",
+      "country":"Czech",
+      "string":"Počítejte prosím s Záznam zvuku, jako je tato aplikace využívá rozpoznávání řeči"
+   },
+   {
+      "locale":"cy",
+      "country":"Welsh",
+      "string":"Os gwelwch yn dda yn caniatáu i Recordio Sain fel y cais hwn yn cyflogi Adnabod Llais"
+   },
+   {
+      "locale":"da",
+      "country":"Danish",
+      "string":"Lad Recording Audio som denne ansøgning beskæftiger Talegenkendelse"
+   },
+   {
+      "locale":"de",
+      "country":"German",
+      "string":"Bitte erlauben Sie Aufnahme von Audio als diese Anwendung Spracherkennung beschäftigt"
+   },
+   {
+      "locale":"el",
+      "country":"Greek",
+      "string":"Παρακαλώ επιτρέψτε εγγραφής ήχου, όπως αυτή η εφαρμογή χρησιμοποιεί την αναγνώριση ομιλίας"
+   },
+   {
+      "locale":"en",
+      "country":"English",
+      "string":"Please allow Recording Audio as this application employs Speech Recognition"
+   },
+   {
+      "locale":"eo",
+      "country":"Esperanto",
+      "string":"Please allow Recording Audio as this application employs Speech Recognition"
+   },
+   {
+      "locale":"es",
+      "country":"Spanish",
+      "string":"Por favor permita la grabación de audio como esta aplicación emplea el reconocimiento de voz"
+   },
+   {
+      "locale":"et",
+      "country":"Estonian",
+      "string":"Palun lubage Heli salvestamine kui see rakendus töötab kõnetuvastus"
+   },
+   {
+      "locale":"eu",
+      "country":"Basque",
+      "string":"Mesedez, baimendu Grabaketa Audio aplikazio hau enplegatzen Speech Recognition gisa"
+   },
+   {
+      "locale":"fa",
+      "country":"Persian",
+      "string":"لطفا اجازه می دهد ضبط صدا به عنوان این نرم افزار استخدام تشخیص گفتار"
+   },
+   {
+      "locale":"fi",
+      "country":"Finnish",
+      "string":"Odota Recording Audio koska tämä hakemus työllistää Puheentunnistus"
+   },
+   {
+      "locale":"fr",
+      "country":"French",
+      "string":"S&#39;il vous plaît permettre l&#39;enregistrement audio que cette application utilise la reconnaissance vocale"
+   },
+   {
+      "locale":"ga",
+      "country":"Irish",
+      "string":"Tabhair deis Taifeadadh Fuaime mar Fostaíonn iarratas seo Urlabhra Aitheantas"
+   },
+   {
+      "locale":"gl",
+      "country":"Galician",
+      "string":"Por favor, permita gravar audio como esta aplicación utiliza o recoñecemento de voz"
+   },
+   {
+      "locale":"gu",
+      "country":"Gujarati",
+      "string":"રેકોર્ડિંગ ઓડિયો આપો કારણ કે આ એપ્લિકેશન સ્પીચ રેકગ્નિશન રોજગારી"
+   },
+   {
+      "locale":"ha",
+      "country":"Hausa",
+      "string":"Don Allah ba da damar Recording Audio kamar yadda wannan aikace-aikace ma&#39;aikata Jawabin LURA"
+   },
+   {
+      "locale":"hi",
+      "country":"Hindi",
+      "string":"रिकॉर्डिंग ऑडियो अनुमति देते हैं के रूप में इस आवेदन भाषण मान्यता को रोजगार"
+   },
+   {
+      "locale":"hmn",
+      "country":"Hmong",
+      "string":"Please allow Recording Audio as this application employs Speech Recognition"
+   },
+   {
+      "locale":"hr",
+      "country":"Croatian",
+      "string":"Molimo dopustite snimanje zvuka, kao ovaj program koristi prepoznavanja govora"
+   },
+   {
+      "locale":"ht",
+      "country":"Haitian Creole",
+      "string":"Tanpri pèmèt Recording Audio kòm aplikasyon sa a anplwaye Lapawòl Recognition"
+   },
+   {
+      "locale":"hu",
+      "country":"Hungarian",
+      "string":"Kérjük, hogy hangfelvétel mivel ez a kérelem alkalmaz beszédfelismerés"
+   },
+   {
+      "locale":"hy",
+      "country":"Armenian",
+      "string":"Խնդրում ենք թույլատրել ձայնագրություն Audio քանի որ այս դիմումը աշխատում խոսքի ճանաչման"
+   },
+   {
+      "locale":"id",
+      "country":"Indonesian",
+      "string":"Perkenankan Recording Audio sebagai aplikasi ini mempekerjakan Speech Recognition"
+   },
+   {
+      "locale":"ig",
+      "country":"Igbo",
+      "string":"Biko ekwe ka ndekọ Audio dị ka a ngwa mîdaha ndịrịonwe"
+   },
+   {
+      "locale":"is",
+      "country":"Icelandic",
+      "string":"Vinsamlegast leyfa upptöku hljóð eins og þetta forrit ræður talgreiningu"
+   },
+   {
+      "locale":"it",
+      "country":"Italian",
+      "string":"Si prega di consentire registrazione audio come questa applicazione utilizza il riconoscimento vocale"
+   },
+   {
+      "locale":"iw",
+      "country":"Hebrew",
+      "string":"בבקשה לאפשר אודיו הקלטה כיישום זו מעסיקה זיהוי דיבור"
+   },
+   {
+      "locale":"ja",
+      "country":"Japanese",
+      "string":"このアプリケーションは、音声認識を利用するようにオーディオ録音を許可してください。"
+   },
+   {
+      "locale":"jw",
+      "country":"Javanese",
+      "string":"Mangga ngidini Rekaman Audio minangka aplikasi iki ngandhut Speech Pengakuan"
+   },
+   {
+      "locale":"ka",
+      "country":"Georgian",
+      "string":"ნება ჩამწერი აუდიო როგორც ეს პროგრამა დასაქმებულია სიტყვის აღიარება"
+   },
+   {
+      "locale":"kk",
+      "country":"Kazakh",
+      "string":"Бұл бағдарлама сөз тану жұмыс істейді ретінде жазу Аудио мүмкіндік сұраймыз"
+   },
+   {
+      "locale":"km",
+      "country":"Khmer",
+      "string":"សូមអនុញ្ញាតឱ្យអូឌីយ៉ូការកត់ត្រាជាកម្មវិធីនេះមានបុគ្គលិកទទួលស្គាល់ការនិយាយ"
+   },
+   {
+      "locale":"kn",
+      "country":"Kannada",
+      "string":"ಈ ಅಪ್ಲಿಕೇಶನ್ ಸ್ಪೀಚ್ ರೆಕಗ್ನಿಷನ್ ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ ಎಂದು ರೆಕಾರ್ಡಿಂಗ್ ಆಡಿಯೋ ಅವಕಾಶ ನೀಡಿ"
+   },
+   {
+      "locale":"ko",
+      "country":"Korean",
+      "string":"이 응용 프로그램은 음성 인식을 사용으로 오디오 녹음 소요"
+   },
+   {
+      "locale":"la",
+      "country":"Latin",
+      "string":"Please allow Recording Audio as this application employs Speech Recognition"
+   },
+   {
+      "locale":"lo",
+      "country":"Lao",
+      "string":"ກະລຸນາອະນຸຍາດໃຫ້ການບັນທຶກສຽງເປັນຄໍາຮ້ອງສະຫມັກນີ້ປະກອບການຮັບຮູ້ຄໍາເວົ້າ"
+   },
+   {
+      "locale":"lt",
+      "country":"Lithuanian",
+      "string":"Prašau leisti garso įrašymo, kaip ši paraiška dirba Kalbėjimo atpažinimą"
+   },
+   {
+      "locale":"lv",
+      "country":"Latvian",
+      "string":"Lūdzu, ļaujiet audio ierakstīšanu, jo šis pieteikums nodarbina runas pazīšana"
+   },
+   {
+      "locale":"mg",
+      "country":"Malagasy",
+      "string":"Mba hamela ny fandraisam-peo ho fampiharana ity miteny mampiasa Fanekena"
+   },
+   {
+      "locale":"mi",
+      "country":"Maori",
+      "string":"Koa tukua Hopu Ororongo rite tenei tono kaimahi Āhukahuka Kōrero"
+   },
+   {
+      "locale":"mk",
+      "country":"Macedonian",
+      "string":"Ве молиме овозможи снимање на аудио, како оваа апликација вработува препознавање на говор"
+   },
+   {
+      "locale":"ml",
+      "country":"Malayalam",
+      "string":"ഈ അപ്ലിക്കേഷൻ സംഭാഷണം തിരിച്ചറിയൽ പണിയെടുക്കുന്ന പോലെ റെക്കോർഡിംഗ് ഓഡിയോ അനുവദിക്കുക"
+   },
+   {
+      "locale":"mn",
+      "country":"Mongolian",
+      "string":"Энэ програм яриа таних ажилладаг гэж Бичлэгийн Аудио боломжийг олгодог уу"
+   },
+   {
+      "locale":"mr",
+      "country":"Marathi",
+      "string":"या अनुप्रयोग उच्चार ओळख कर्मचारी म्हणून रेकॉर्डिंग ऑडिओ अनुमती द्या"
+   },
+   {
+      "locale":"ms",
+      "country":"Malay",
+      "string":"Sila membolehkan Rakaman Audio sebagai permohonan ini menggunakan Pengiktirafan Ucapan"
+   },
+   {
+      "locale":"mt",
+      "country":"Maltese",
+      "string":"Jekk jogħġbok jippermettu Reġistrazzjoni awdjo kif din l-applikazzjoni jimpjega Diskors Rikonoxximent"
+   },
+   {
+      "locale":"my",
+      "country":"Myanmar (Burmese)",
+      "string":"ဤလျှောက်လွှာကိုမိန့်ခွန်းအသိအမှတ်ပြုလုပ်ကိုင်အဖြစ်မှတ်တမ်းတင်ရ Audio ခွင့်ပြုပေးပါ"
+   },
+   {
+      "locale":"ne",
+      "country":"Nepali",
+      "string":"यो अनुप्रयोग भाषण पहिचान रोजगार रूपमा कृपया रेकर्डिङ अडियो अनुमति"
+   },
+   {
+      "locale":"nl",
+      "country":"Dutch",
+      "string":"Houdt u rekening met Audio opnemen als deze applicatie maakt gebruik van spraakherkenning"
+   },
+   {
+      "locale":"no",
+      "country":"Norwegian",
+      "string":"Det kan ta opp lyd som denne søknaden syssels Talegjenkjenning"
+   },
+   {
+      "locale":"ny",
+      "country":"Chichewa",
+      "string":"Ndiloleni Kujambula Audio monga ntchito imeneyi ntchito Kulankhula Kuzindikilidwa"
+   },
+   {
+      "locale":"pa",
+      "country":"Punjabi",
+      "string":"ਰਿਕਾਰਡਿੰਗ ਆਡੀਓ ਲਈ ਸਹਾਇਕ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੇ ਤੌਰ ਤੇ ਇਸ ਕਾਰਜ ਨੂੰ ਸਪੀਚ ਪਛਾਣ ਨੂੰ ਨੌਕਰੀ"
+   },
+   {
+      "locale":"pl",
+      "country":"Polish",
+      "string":"Proszę pozwolić nagrywania audio, jak ta aplikacja wykorzystuje rozpoznawania mowy"
+   },
+   {
+      "locale":"pt",
+      "country":"Portuguese",
+      "string":"Por favor, permita gravação de áudio como esta aplicação utiliza o Reconhecimento de Voz"
+   },
+   {
+      "locale":"ro",
+      "country":"Romanian",
+      "string":"Vă rugăm să așteptați Înregistrarea audio ca această aplicație utilizează Recunoaștere vorbire"
+   },
+   {
+      "locale":"ru",
+      "country":"Russian",
+      "string":"Пожалуйста, позвольте записи аудио, как это приложение использует распознавание речи"
+   },
+   {
+      "locale":"si",
+      "country":"Sinhala",
+      "string":"මෙම යෙදුම කටහඬ හඳුනාගැනීමේ සේවක ලෙස පටිගත ශ්රව්ය උපකරණ අවසර දෙන්න"
+   },
+   {
+      "locale":"sk",
+      "country":"Slovak",
+      "string":"Počítajte prosím s Záznam zvuku, ako je táto aplikácia využíva rozpoznávanie reči"
+   },
+   {
+      "locale":"sl",
+      "country":"Slovenian",
+      "string":"Dovolite snemanje zvoka kot ta aplikacija uporablja prepoznavanje govora"
+   },
+   {
+      "locale":"so",
+      "country":"Somali",
+      "string":"Fadlan u ogolow duubista Audio sida codsigan shaqeeya Aqoonsiga Hadalka"
+   },
+   {
+      "locale":"sq",
+      "country":"Albanian",
+      "string":"Ju lutemi të lejojë Regjistrimi Audio pasi kjo kërkesë punëson Speech Recognition"
+   },
+   {
+      "locale":"sr",
+      "country":"Serbian",
+      "string":"Дозволите снима звук као ова апликација користи препознавање говора"
+   },
+   {
+      "locale":"st",
+      "country":"Sesotho",
+      "string":"Ka kōpo lumella ngola Audio joalokaha kopo ena sebelisang Puo amohela"
+   },
+   {
+      "locale":"su",
+      "country":"Sundanese",
+      "string":"Mangga ngidinan Rekaman Audio salaku aplikasi ieu employs Biantara Pangakuan"
+   },
+   {
+      "locale":"sv",
+      "country":"Swedish",
+      "string":"Låt Ljudinspelning som denna ansökan använder Taligenkänning"
+   },
+   {
+      "locale":"sw",
+      "country":"Swahili",
+      "string":"Tafadhali kuruhusu Recording Audio kama maombi hii kutoa ajira kwa Hotuba Recognition"
+   },
+   {
+      "locale":"ta",
+      "country":"Tamil",
+      "string":"இந்த விண்ணப்பத்தை பேச்சு அறிதல் நியமித்துள்ள நிலையில், தயவு செய்து பதிவு ஆடியோ அனுமதிக்க"
+   },
+   {
+      "locale":"te",
+      "country":"Telugu",
+      "string":"రికార్డింగ్ ఆడియో ఆగండి ఈ అప్లికేషన్ స్పీచ్ రికగ్నిషన్ ఉద్యోగులున్నారు గా"
+   },
+   {
+      "locale":"tg",
+      "country":"Tajik",
+      "string":"Лутфан, имкон сабти ин барнома бо кор эътирофи Суханронии"
+   },
+   {
+      "locale":"th",
+      "country":"Thai",
+      "string":"กรุณาอนุญาตให้บันทึกเสียงเป็นโปรแกรมนี้มีพนักงานการรู้จำเสียง"
+   },
+   {
+      "locale":"tl",
+      "country":"Filipino",
+      "string":"Mangyaring maglaan ng Recording Audio bilang na ito application employs Speech Recognition"
+   },
+   {
+      "locale":"tr",
+      "country":"Turkish",
+      "string":"Bu uygulama Konuşma Tanıma istihdam olarak Kayıt Ses izin verin"
+   },
+   {
+      "locale":"uk",
+      "country":"Ukrainian",
+      "string":"Будь ласка, дозвольте записи аудіо, як це додаток використовує розпізнавання мови"
+   },
+   {
+      "locale":"ur",
+      "country":"Urdu",
+      "string":"اس درخواست شناخت گفتگو کو ملازم کے طور پر ریکارڈنگ آڈیو اجازت کریں"
+   },
+   {
+      "locale":"uz",
+      "country":"Uzbek",
+      "string":"Ushbu dastur Nutqni aniqlash ishchi mehnat qilib Yozib Audio yo&#39;l Iltimos"
+   },
+   {
+      "locale":"vi",
+      "country":"Vietnamese",
+      "string":"Xin cho phép ghi âm thanh như là ứng dụng này sử dụng nhận dạng giọng nói"
+   },
+   {
+      "locale":"yi",
+      "country":"Yiddish",
+      "string":"ביטע לאָזן רעקאָרדינג אַודיאָ ווי דעם אַפּלאַקיישאַן ימפּלויז ספּיטש רעקאָגניטיאָן"
+   },
+   {
+      "locale":"yo",
+      "country":"Yoruba",
+      "string":"Jọwọ gba sile Audio bi yi ohun elo employs Ọrọ idanimọ"
+   },
+   {
+      "locale":"zh",
+      "country":"Chinese",
+      "string":"请允许录制音频，因为这应用程序使用语音识别"
+   },
+   {
+      "locale":"zh-CN",
+      "country":"Chinese (Simplified)",
+      "string":"请允许录制音频，因为这应用程序使用语音识别"
+   },
+   {
+      "locale":"zh-TW",
+      "country":"Chinese (Traditional)",
+      "string":"請允許錄製音頻，因為這應用程序使用語音識別"
+   },
+   {
+      "locale":"zu",
+      "country":"Zulu",
+      "string":"Sicela uvumele Ukuqopha Audio njengoba lolu hlelo eqasha Speech Recognition"
+   }
+]

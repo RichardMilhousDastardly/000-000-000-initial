@@ -1,0 +1,84 @@
+package com.crucifix.software.generate;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectReader;
+import com.samskivert.mustache.Mustache;
+import com.samskivert.mustache.Template;
+
+public class Generator {
+
+	private static final String[] templateValue = new String[] { "clickOn", "sayPlay", "audio", "storage" };
+	private static int localeIndexMax = 0;
+
+	private static final String VALUES_TEMPLATE = "<resources><string name=\"app_name\">Tooonage</string><string name=\"permission_explanation_record_audio\">{{audio}}</string><string name=\"permission_explanation_read_external_storage\">{{storage}}</string><string name=\"click_on_one\">1). {{clickOn}}</string><string name=\"click_on_two\">2). {{clickOn}}</string><string name=\"say_play\">3). {{sayPlay}}</string></resources>";
+	private static final Template mustacheTemplate = Mustache.compiler().defaultValue("DEFAULT").compile(VALUES_TEMPLATE);
+
+	private static final ObjectMapper mapper = new ObjectMapper();
+	private static final ObjectReader reader = mapper.readerFor(TranslationJson[].class);
+
+	private static final Map<String, List<TranslationJson>> translationMap = new LinkedHashMap<>();
+	private static final Map<String, Object> templateData = new LinkedHashMap<>();
+	private static final String VALUES = "values-";
+	private static final String STRINGS_XML = "strings.xml";
+
+	public void init(final String... jsonFiles) throws JsonProcessingException, IOException {
+
+		translationMap.clear();
+
+		for (final String jsonFile : jsonFiles) {
+			final TranslationJson[] translations = reader.readValue(new File(jsonFile));
+			localeIndexMax = translations.length;
+			translationMap.put(jsonFile, Arrays.asList(translations));
+		}
+	}
+
+	public void build() throws IOException {
+
+		int localeIndex = 0;
+		int templateKeyIndex = 0;
+		templateData.clear();
+
+		while (localeIndex < localeIndexMax) {
+
+			String locale = "";
+
+			for (Map.Entry<String, List<TranslationJson>> entry : translationMap.entrySet()) {
+				locale = entry.getValue().get(localeIndex).getLocale();
+
+				templateData.put(templateValue[templateKeyIndex], entry.getValue().get(localeIndex).getString());
+				templateKeyIndex++;
+			}
+
+			localeIndex++;
+			
+			final String localeFolder = VALUES + locale; 
+			
+			final File file = new File(localeFolder);
+			file.mkdir();
+			
+			final Path path = Paths.get(localeFolder + "/" + STRINGS_XML);
+
+			
+			
+			
+			FileWriter fileWriter = new FileWriter(file + "/strings.xml");
+
+			mustacheTemplate.execute(templateData, fileWriter);
+			templateKeyIndex = 0;
+			templateData.clear();
+
+		}
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.crucifix.software.generate;
+
+public class TranslationJson {
+	
+	private final String locale;
+	private final String country;
+	private final String string;
+	
+	
+	public TranslationJson(final String locale, final String country, final String string) {
+		super();
+		this.locale = locale;
+		this.country = country;
+		this.string = string;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

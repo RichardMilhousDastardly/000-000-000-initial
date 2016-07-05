@@ -1,0 +1,13 @@
+package com.crucifix.software.generate;
+
+public class GenerateManager {
+
+	public static void main(final String[] args) {
+		
+		final Generator Generator = new Generator();
+		
+		
+		
+	}
+
+}
